@@ -1,0 +1,401 @@
+factor_id;factor;severity;description;example
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Maaf gak bisa COD kak, harus transfer dulu.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Akun ini saya buat khusus untuk jual sepeda bekas.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Toko ini baru buka 15 menit yang lalu di marketplace.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Fotonya nyusul ya kak, sekarang belum sempat foto barangnya.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Harga segini cuma untuk yang transfer dalam 30 menit ini.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Maaf belum sempat verifikasi akun, tapi barang dijamin sampai.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Saya cuma punya foto dari katalog, bukan foto barang asli.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Rekening saya Rp2.500.000, transfer dulu baru saya kirim.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Kode OTP diperlukan untuk memproses refund pembayaran Anda.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Tautan berikut untuk proses klaim paket yang tertahan di gudang.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Tolong konfirmasi dengan mengirimkan kode OTP 6 digit Anda.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Kirim PIN kartu ATM untuk verifikasi transaksi cashback.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Klik link berikut untuk klaim hadiah undian senilai Rp10.000.000.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Sistem toko kami tidak mendukung COD, hanya transfer.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Silakan berikan password akun Anda supaya saya bisa bantu proses refund.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Pembayaran harus lunas dulu via transfer sebelum diproses.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Tolong konfirmasi dengan mengirimkan kode OTP 6 digit Anda.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Maaf belum ada testimoni, tapi barangnya beneran ada kok.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Stok gudang, iPhone dijual Rp2.500.000 padahal harga normal jauh lebih mahal.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Untuk verifikasi pengiriman, saya butuh OTP dari SMS Anda.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;COD cuma untuk pembelian di atas 5 unit, kalau satuan harus transfer.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Mohon kirimkan PIN ATM Anda untuk proses pencairan dana.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Foto yang saya kirim itu contoh produk, bukan stok yang akan dikirim.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Data KTP diperlukan supaya pengiriman motor bekas bisa diproses.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Jual sepeda cuma Rp5.000.000, jauh di bawah harga toko resmi.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;iPhone baru garansi resmi tapi harganya cuma setengah dari pasaran.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Toko ini baru buka 15 menit yang lalu di marketplace.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Data KTP diperlukan supaya pengiriman kamera bisa diproses.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;COD tidak tersedia untuk area Anda, harus DP dulu.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;COD tidak tersedia untuk area Anda, harus DP dulu.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Maaf belum sempat verifikasi akun, tapi barang dijamin sampai.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Maaf gak bisa kirim video unboxing sebelum transfer.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Halo kak, saya jual sepatu branded, ini pertama kali kita transaksi ya.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Harga miring banget buat jam tangan ini, cuma Rp1.000.000 aja.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Mohon kirimkan kode OTP yang baru saja masuk ke HP Anda.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Status toko belum verified, tapi sudah banyak yang order dari saya.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Harga segini cuma untuk yang transfer dalam 15 menit ini.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Mohon kirimkan kode OTP yang baru saja masuk ke HP Anda.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Data KTP diperlukan supaya pengiriman PS5 bisa diproses.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Harga segini gak masuk akal untuk kualitas original, tapi saya jual segitu.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Segera verifikasi akun Anda lewat tautan ini sebelum diblokir.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Tolong konfirmasi dengan mengirimkan kode OTP 6 digit Anda.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Setelah transfer, saya langsung kirim jam tangan hari ini.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Akun saya belum verifikasi centang biru, tapi toko ini asli kok.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Maaf belum ada testimoni, tapi barangnya beneran ada kok.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;PS5 baru garansi resmi tapi harganya cuma setengah dari pasaran.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Halo kak, saya jual iPhone, ini pertama kali kita transaksi ya.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Untuk verifikasi pengiriman, saya butuh OTP dari SMS Anda.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Mohon kirimkan foto KTP dan selfie untuk proses pencairan dana.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Stok gudang, sepeda dijual Rp10.000.000 padahal harga normal jauh lebih mahal.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;COD tidak tersedia untuk area Anda, harus DP dulu.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Silakan upload foto identitas Anda untuk validasi akun pembeli.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Setelah transfer, saya langsung kirim motor bekas hari ini.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Foto yang saya kirim itu contoh produk, bukan stok yang akan dikirim.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Maaf gak bisa kirim video unboxing sebelum transfer.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Saya bukan reseller resmi, tapi jual iPhone langsung dari gudang.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Saya bukan reseller resmi, tapi jual PS5 langsung dari gudang.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Saya bukan reseller resmi, tapi jual kulkas langsung dari gudang.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Untuk verifikasi akun, masukkan password dan PIN e-wallet Anda di sini.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Saya bukan reseller resmi, tapi jual motor bekas langsung dari gudang.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Buruan kak, stok tinggal 1 buat motor bekas ini!
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Maaf gak bisa kirim video unboxing sebelum transfer.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Segera verifikasi akun Anda lewat tautan ini sebelum diblokir.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;motor bekas baru garansi resmi tapi harganya cuma setengah dari pasaran.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Pembayaran harus lunas dulu via transfer sebelum diproses.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Akun toko saya baru dibuat minggu ini, tapi barang dijamin ori.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Saya cuma punya foto dari katalog, bukan foto barang asli.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Mohon kirimkan foto KTP dan selfie untuk proses pencairan dana.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Kode OTP diperlukan untuk memproses refund pembayaran Anda.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Sistem toko kami tidak mendukung COD, hanya transfer.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Harga miring banget buat sepatu branded ini, cuma Rp500.000 aja.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Akun baru saya daftar kemarin, mohon percaya ya kak.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Akun baru saya daftar kemarin, mohon percaya ya kak.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Data KTP diperlukan supaya pengiriman laptop bisa diproses.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Promo ini cuma berlaku 10 menit lagi, buruan order.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Saya butuh PIN mobile banking Anda untuk membantu transaksi ini.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Maaf gak bisa kirim video unboxing sebelum transfer.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Setelah transfer, saya langsung kirim tas original hari ini.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Karena barang dari luar kota, COD tidak bisa dilakukan.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Halo kak, saya jual kamera, ini pertama kali kita transaksi ya.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Tautan berikut untuk proses klaim paket yang tertahan di gudang.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Untuk verifikasi pembelian, kirim foto KTP Anda ke sini ya.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Mohon kirimkan PIN ATM Anda untuk proses pencairan dana.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Setelah transfer, saya langsung kirim iPhone hari ini.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Data KTP diperlukan supaya pengiriman iPhone bisa diproses.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Saya harus tutup lapak dalam 30 menit, buruan ambil sekarang.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Sistem toko kami tidak mendukung COD, hanya transfer.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Harga segini cuma untuk yang transfer dalam 10 menit ini.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Belum genap sebulan saya jualan online, tapi stok banyak kok.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Mohon kirimkan kode OTP yang baru saja masuk ke HP Anda.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Status toko belum verified, tapi sudah banyak yang order dari saya.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Untuk verifikasi pengiriman, saya butuh OTP dari SMS Anda.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Klik link berikut untuk klaim hadiah undian senilai Rp2.500.000.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Akun saya belum verifikasi centang biru, tapi toko ini asli kok.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Silakan share OTP yang dikirim ke nomor Anda barusan.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Silakan upload foto identitas Anda untuk validasi akun pembeli.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Kode OTP diperlukan untuk memproses refund pembayaran Anda.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Link ini untuk ambil cashback Rp1.000.000 dari promo hari ini.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Toko saya baru buka, belum ada rating tapi barang dijamin ori.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Promo ini cuma berlaku 30 menit lagi, buruan order.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Kirim PIN kartu ATM untuk verifikasi transaksi cashback.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Untuk verifikasi akun, masukkan password dan PIN e-wallet Anda di sini.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Link ini untuk ambil cashback Rp5.000.000 dari promo hari ini.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Mohon kirimkan PIN ATM Anda untuk proses pencairan dana.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Rekening saya Rp5.000.000, transfer dulu baru saya kirim.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Kirim PIN kartu ATM untuk verifikasi transaksi cashback.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Halo kak, saya jual motor bekas, ini pertama kali kita transaksi ya.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Data KTP diperlukan supaya pengiriman sepatu branded bisa diproses.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Akun ini saya buat khusus untuk jual sepatu branded bekas.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Sistem toko kami tidak mendukung COD, hanya transfer.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Mohon DP 100% dulu sebelum saya packing kulkas.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Buruan kak, stok tinggal 1 buat iPhone ini!
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Saya harus tutup lapak dalam 15 menit, buruan ambil sekarang.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Karena butuh uang cepat, jam tangan saya lepas jauh di bawah harga pasar.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;COD tidak tersedia untuk area Anda, harus DP dulu.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;kulkas baru garansi resmi tapi harganya cuma setengah dari pasaran.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Maaf gak bisa COD kak, harus transfer dulu.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Halo kak, saya jual PS5, ini pertama kali kita transaksi ya.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Buruan kak, stok tinggal 1 buat laptop ini!
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Akun toko saya baru dibuat minggu ini, tapi barang dijamin ori.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Mohon kirimkan kode OTP yang baru saja masuk ke HP Anda.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Saya butuh PIN mobile banking Anda untuk membantu transaksi ini.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;COD cuma untuk pembelian di atas 5 unit, kalau satuan harus transfer.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Promo ini cuma berlaku 1 jam lagi, buruan order.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Halo kak, saya jual kulkas, ini pertama kali kita transaksi ya.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Sistem toko kami tidak mendukung COD, hanya transfer.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Mohon DP 100% dulu sebelum saya packing tas original.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Mohon DP 100% dulu sebelum saya packing iPhone.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Saya harus tutup lapak dalam 1 jam, buruan ambil sekarang.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Karena barang dari luar kota, COD tidak bisa dilakukan.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Maaf gak bisa COD kak, harus transfer dulu.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Saya bukan reseller resmi, tapi jual sepeda langsung dari gudang.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Silakan upload foto identitas Anda untuk validasi akun pembeli.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Untuk verifikasi akun, masukkan password dan PIN e-wallet Anda di sini.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Transfer sekarang sebelum kehabisan dalam 1 jam.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Klik link berikut untuk klaim hadiah undian senilai Rp150.000.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Kode OTP diperlukan untuk memproses refund pembayaran Anda.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Belum genap sebulan saya jualan online, tapi stok banyak kok.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Akun ini saya buat khusus untuk jual PS5 bekas.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Saya cuma punya foto dari katalog, bukan foto barang asli.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Untuk verifikasi pengiriman, saya butuh OTP dari SMS Anda.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Link ini untuk ambil cashback Rp150.000 dari promo hari ini.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Status toko belum verified, tapi sudah banyak yang order dari saya.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Buruan kak, stok tinggal 1 buat kulkas ini!
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;kamera baru garansi resmi tapi harganya cuma setengah dari pasaran.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Kirim PIN kartu ATM untuk verifikasi transaksi cashback.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Sistem toko kami tidak mendukung COD, hanya transfer.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Toko ini baru buka 10 menit yang lalu di marketplace.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Harga miring banget buat sepeda ini, cuma Rp150.000 aja.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;COD tidak tersedia untuk area Anda, harus DP dulu.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Akun saya belum verifikasi centang biru, tapi toko ini asli kok.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Toko ini baru buka 1 jam yang lalu di marketplace.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Untuk verifikasi akun, masukkan password dan PIN e-wallet Anda di sini.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Akun saya belum verifikasi centang biru, tapi toko ini asli kok.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Untuk verifikasi pembelian, kirim foto KTP Anda ke sini ya.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Tolong konfirmasi dengan mengirimkan kode OTP 6 digit Anda.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;COD cuma untuk pembelian di atas 5 unit, kalau satuan harus transfer.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Untuk verifikasi akun, masukkan password dan PIN e-wallet Anda di sini.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Segera verifikasi akun Anda lewat tautan ini sebelum diblokir.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Rekening saya Rp500.000, transfer dulu baru saya kirim.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Mohon kirimkan foto KTP dan selfie untuk proses pencairan dana.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;COD cuma untuk pembelian di atas 5 unit, kalau satuan harus transfer.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Mohon DP 100% dulu sebelum saya packing kamera.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Toko ini baru buka 10 menit yang lalu di marketplace.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Harga miring banget buat tas original ini, cuma Rp10.000.000 aja.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Cuci gudang, semua barang termasuk PS5 didiskon besar-besaran.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Saya bukan reseller resmi, tapi jual sepatu branded langsung dari gudang.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Tolong konfirmasi dengan mengirimkan kode OTP 6 digit Anda.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Toko ini baru buka 10 menit yang lalu di marketplace.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Saya harus tutup lapak dalam 15 menit, buruan ambil sekarang.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;COD cuma untuk pembelian di atas 5 unit, kalau satuan harus transfer.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Mohon DP 100% dulu sebelum saya packing jam tangan.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Akun saya belum verifikasi centang biru, tapi toko ini asli kok.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Kirim PIN kartu ATM untuk verifikasi transaksi cashback.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Mohon DP 100% dulu sebelum saya packing sepeda.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Akun ini saya buat khusus untuk jual laptop bekas.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Untuk verifikasi pengiriman, saya butuh OTP dari SMS Anda.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Akun ini belum resmi terverifikasi platform, tapi legit kok kak.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Akun ini belum resmi terverifikasi platform, tapi legit kok kak.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Foto yang saya kirim itu contoh produk, bukan stok yang akan dikirim.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Untuk verifikasi akun, masukkan password dan PIN e-wallet Anda di sini.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Setelah transfer, saya langsung kirim sepeda hari ini.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Akun ini saya buat khusus untuk jual motor bekas bekas.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Karena butuh uang cepat, sepeda saya lepas jauh di bawah harga pasar.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Mohon DP 100% dulu sebelum saya packing motor bekas.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Waduh keburu diambil orang lain lho, cepetan kak.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Silakan share OTP yang dikirim ke nomor Anda barusan.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Silakan share OTP yang dikirim ke nomor Anda barusan.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Jual motor bekas cuma Rp2.500.000, jauh di bawah harga toko resmi.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Untuk verifikasi pembelian, kirim foto KTP Anda ke sini ya.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Data KTP diperlukan supaya pengiriman tas original bisa diproses.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Klik link berikut untuk klaim hadiah undian senilai Rp150.000.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Akun baru saya daftar kemarin, mohon percaya ya kak.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Saya cuma punya foto dari katalog, bukan foto barang asli.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Maaf belum sempat verifikasi akun, tapi barang dijamin sampai.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Untuk verifikasi akun, masukkan password dan PIN e-wallet Anda di sini.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Klik link berikut untuk klaim hadiah undian senilai Rp5.000.000.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Mohon DP 100% dulu sebelum saya packing laptop.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Akun baru saya daftar kemarin, mohon percaya ya kak.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Silakan transfer ke rekening ini sebelum barang saya kirim.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Status toko belum verified, tapi sudah banyak yang order dari saya.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Kirim PIN kartu ATM untuk verifikasi transaksi cashback.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Transfer sekarang sebelum kehabisan dalam 30 menit.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Akun ini belum resmi terverifikasi platform, tapi legit kok kak.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Harga segini cuma untuk yang transfer dalam 1 jam ini.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Stok gudang, laptop dijual Rp2.500.000 padahal harga normal jauh lebih mahal.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Transfer sekarang sebelum kehabisan dalam 15 menit.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Saya cuma punya foto dari katalog, bukan foto barang asli.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Sistem toko kami tidak mendukung COD, hanya transfer.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Rekening saya Rp10.000.000, transfer dulu baru saya kirim.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;COD cuma untuk pembelian di atas 5 unit, kalau satuan harus transfer.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Saya harus tutup lapak dalam hari ini, buruan ambil sekarang.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Klik link berikut untuk klaim hadiah undian senilai Rp500.000.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Foto yang saya kirim itu contoh produk, bukan stok yang akan dikirim.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Saya bukan reseller resmi, tapi jual tas original langsung dari gudang.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Akun baru saya daftar kemarin, mohon percaya ya kak.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Data KTP diperlukan supaya pengiriman motor bekas bisa diproses.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Belum genap sebulan saya jualan online, tapi stok banyak kok.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Jangan sampai kehabisan, order sekarang juga ya kak.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Untuk verifikasi pembelian, kirim foto KTP Anda ke sini ya.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Saya cuma terima transfer, gak bisa COD sama sekali.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Klik link berikut untuk klaim hadiah undian senilai Rp1.000.000.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Untuk verifikasi pengiriman, saya butuh OTP dari SMS Anda.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Silakan share OTP yang dikirim ke nomor Anda barusan.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Rekening saya Rp150.000, transfer dulu baru saya kirim.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Cuci gudang, semua barang termasuk laptop didiskon besar-besaran.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Klik di sini untuk aktivasi hadiah gratis pulsa dari operator Anda.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;COD tidak tersedia untuk area Anda, harus DP dulu.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Klik di sini untuk aktivasi hadiah gratis pulsa dari operator Anda.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Saya butuh PIN mobile banking Anda untuk membantu transaksi ini.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Akun saya belum verifikasi centang biru, tapi toko ini asli kok.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Setelah transfer, saya langsung kirim kulkas hari ini.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Silakan upload foto identitas Anda untuk validasi akun pembeli.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Silakan share OTP yang dikirim ke nomor Anda barusan.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Transfer sekarang sebelum kehabisan dalam 10 menit.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Data KTP diperlukan supaya pengiriman jam tangan bisa diproses.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Mohon kirimkan foto KTP dan selfie untuk proses pencairan dana.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Akun saya belum verifikasi centang biru, tapi toko ini asli kok.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Tolong konfirmasi dengan mengirimkan kode OTP 6 digit Anda.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Kode OTP diperlukan untuk memproses refund pembayaran Anda.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Videonya belum sempat saya buat, percaya aja kak barangnya ada.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Karena barang dari luar kota, COD tidak bisa dilakukan.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Fotonya nyusul ya kak, sekarang belum sempat foto barangnya.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Toko ini baru buka hari ini yang lalu di marketplace.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Akun ini saya buat khusus untuk jual tas original bekas.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Status toko belum verified, tapi sudah banyak yang order dari saya.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Harga miring banget buat tas original ini, cuma Rp1.000.000 aja.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Data KTP diperlukan supaya pengiriman PS5 bisa diproses.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Belum genap sebulan saya jualan online, tapi stok banyak kok.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Saya bukan reseller resmi, tapi jual jam tangan langsung dari gudang.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Maaf belum sempat verifikasi akun, tapi barang dijamin sampai.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Rekening saya Rp1.000.000, transfer dulu baru saya kirim.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Sistem toko kami tidak mendukung COD, hanya transfer.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Saya cuma punya foto dari katalog, bukan foto barang asli.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Link ini untuk ambil cashback Rp10.000.000 dari promo hari ini.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Link ini untuk ambil cashback Rp2.500.000 dari promo hari ini.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Akun ini belum resmi terverifikasi platform, tapi legit kok kak.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Buruan kak, stok tinggal 1 buat kamera ini!
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Fotonya nyusul ya kak, sekarang belum sempat foto barangnya.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Silakan berikan password akun Anda supaya saya bisa bantu proses refund.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Belum genap sebulan saya jualan online, tapi stok banyak kok.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Belum genap sebulan saya jualan online, tapi stok banyak kok.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Silakan berikan password akun Anda supaya saya bisa bantu proses refund.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Transfer dulu ya kak, baru saya kirim barangnya.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Cuci gudang, semua barang termasuk sepeda didiskon besar-besaran.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Belum genap sebulan saya jualan online, tapi stok banyak kok.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Harga miring banget buat iPhone ini, cuma Rp500.000 aja.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Halo kak, saya jual laptop, ini pertama kali kita transaksi ya.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Videonya belum sempat saya buat, percaya aja kak barangnya ada.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Akun ini saya buat khusus untuk jual kamera bekas.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Akun baru saya daftar kemarin, mohon percaya ya kak.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Buruan kak, stok tinggal 1 buat sepeda ini!
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Karena butuh uang cepat, laptop saya lepas jauh di bawah harga pasar.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Silakan berikan password akun Anda supaya saya bisa bantu proses refund.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Belum genap sebulan saya jualan online, tapi stok banyak kok.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Status toko belum verified, tapi sudah banyak yang order dari saya.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Akun saya belum verifikasi centang biru, tapi toko ini asli kok.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Sistem toko kami tidak mendukung COD, hanya transfer.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Data KTP diperlukan supaya pengiriman jam tangan bisa diproses.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Data KTP diperlukan supaya pengiriman tas original bisa diproses.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Maaf gak bisa COD kak, harus transfer dulu.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Kirim PIN kartu ATM untuk verifikasi transaksi cashback.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Klik di sini untuk aktivasi hadiah gratis pulsa dari operator Anda.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Silakan upload foto identitas Anda untuk validasi akun pembeli.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Tautan berikut untuk proses klaim paket yang tertahan di gudang.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Mohon kirimkan PIN ATM Anda untuk proses pencairan dana.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Akun baru saya daftar kemarin, mohon percaya ya kak.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Belum ada foto real pict, tapi kondisi barang saya jamin bagus.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Belum ada foto real pict, tapi kondisi barang saya jamin bagus.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Link ini untuk ambil cashback Rp500.000 dari promo hari ini.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Untuk verifikasi pembelian, kirim foto KTP Anda ke sini ya.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Mohon DP 100% dulu sebelum saya packing sepatu branded.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Belum ada foto real pict, tapi kondisi barang saya jamin bagus.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Tautan berikut untuk proses klaim paket yang tertahan di gudang.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Harga miring banget buat kamera ini, cuma Rp1.000.000 aja.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Segera verifikasi akun Anda lewat tautan ini sebelum diblokir.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Toko ini baru buka 10 menit yang lalu di marketplace.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Kirim PIN kartu ATM untuk verifikasi transaksi cashback.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Akun toko saya baru dibuat minggu ini, tapi barang dijamin ori.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Halo kak, saya jual jam tangan, ini pertama kali kita transaksi ya.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Mohon kirimkan foto KTP dan selfie untuk proses pencairan dana.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Untuk verifikasi akun, masukkan password dan PIN e-wallet Anda di sini.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Kirim PIN kartu ATM untuk verifikasi transaksi cashback.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Saya cuma punya foto dari katalog, bukan foto barang asli.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Maaf belum sempat verifikasi akun, tapi barang dijamin sampai.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Saya butuh PIN mobile banking Anda untuk membantu transaksi ini.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Buruan kak, stok tinggal 1 buat sepatu branded ini!
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Harga miring banget buat jam tangan ini, cuma Rp5.000.000 aja.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Saya bukan reseller resmi, tapi jual laptop langsung dari gudang.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;COD tidak tersedia untuk area Anda, harus DP dulu.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Stok gudang, laptop dijual Rp150.000 padahal harga normal jauh lebih mahal.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Saya harus tutup lapak dalam 10 menit, buruan ambil sekarang.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Fotonya nyusul ya kak, sekarang belum sempat foto barangnya.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Silakan berikan password akun Anda supaya saya bisa bantu proses refund.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Klik di sini untuk aktivasi hadiah gratis pulsa dari operator Anda.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Akun ini saya buat khusus untuk jual iPhone bekas.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Silakan share OTP yang dikirim ke nomor Anda barusan.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Stok gudang, iPhone dijual Rp500.000 padahal harga normal jauh lebih mahal.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Maaf belum sempat verifikasi akun, tapi barang dijamin sampai.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Videonya belum sempat saya buat, percaya aja kak barangnya ada.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Silakan upload foto identitas Anda untuk validasi akun pembeli.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Transfer sekarang sebelum kehabisan dalam hari ini.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Sistem toko kami tidak mendukung COD, hanya transfer.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Setelah transfer, saya langsung kirim PS5 hari ini.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Saya cuma punya foto dari katalog, bukan foto barang asli.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Toko ini baru buka 30 menit yang lalu di marketplace.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Setelah transfer, saya langsung kirim sepatu branded hari ini.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Silakan share OTP yang dikirim ke nomor Anda barusan.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Setelah transfer, saya langsung kirim laptop hari ini.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Segera verifikasi akun Anda lewat tautan ini sebelum diblokir.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Segera verifikasi akun Anda lewat tautan ini sebelum diblokir.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Saya bukan reseller resmi, tapi jual kamera langsung dari gudang.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Status toko belum verified, tapi sudah banyak yang order dari saya.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Saya bukan reseller resmi, tapi jual sepatu branded langsung dari gudang.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Maaf belum sempat verifikasi akun, tapi barang dijamin sampai.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Promo ini cuma berlaku 15 menit lagi, buruan order.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Barang akan saya proses setelah transfer masuk penuh.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Promo ini cuma berlaku hari ini lagi, buruan order.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Maaf gak bisa kirim video unboxing sebelum transfer.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Kirim PIN kartu ATM untuk verifikasi transaksi cashback.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Maaf gak bisa COD kak, harus transfer dulu.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Link ini untuk ambil cashback Rp5.000.000 dari promo hari ini.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Data KTP diperlukan supaya pengiriman kulkas bisa diproses.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Kalau gak segera transfer, barang saya kasih ke orang lain.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Saya cuma punya foto dari katalog, bukan foto barang asli.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Maaf gak bisa COD kak, harus transfer dulu.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Foto yang saya kirim itu contoh produk, bukan stok yang akan dikirim.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Kode OTP diperlukan untuk memproses refund pembayaran Anda.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Halo kak, saya jual sepeda, ini pertama kali kita transaksi ya.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Cuci gudang, semua barang termasuk kamera didiskon besar-besaran.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Silakan transfer ke rekening ini sebelum barang saya kirim.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;tas original baru garansi resmi tapi harganya cuma setengah dari pasaran.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Akun baru saya daftar kemarin, mohon percaya ya kak.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Harga miring banget buat sepatu branded ini, cuma Rp10.000.000 aja.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Link ini untuk ambil cashback Rp1.000.000 dari promo hari ini.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Jual jam tangan cuma Rp2.500.000, jauh di bawah harga toko resmi.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Data KTP diperlukan supaya pengiriman sepeda bisa diproses.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Karena butuh uang cepat, kulkas saya lepas jauh di bawah harga pasar.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Untuk verifikasi pengiriman, saya butuh OTP dari SMS Anda.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Link ini untuk ambil cashback Rp150.000 dari promo hari ini.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Link ini untuk ambil cashback Rp10.000.000 dari promo hari ini.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Klik di sini untuk aktivasi hadiah gratis pulsa dari operator Anda.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Mohon kirimkan PIN ATM Anda untuk proses pencairan dana.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Tolong konfirmasi dengan mengirimkan kode OTP 6 digit Anda.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Mohon kirimkan kode OTP yang baru saja masuk ke HP Anda.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Akun baru saya daftar kemarin, mohon percaya ya kak.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Belum genap sebulan saya jualan online, tapi stok banyak kok.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Setelah transfer, saya langsung kirim kamera hari ini.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Harga segini cuma untuk yang transfer dalam hari ini ini.
+R06;otp_request;critical;Penjual atau pihak lain meminta kode OTP;Kode OTP diperlukan untuk memproses refund pembayaran Anda.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Status toko belum verified, tapi sudah banyak yang order dari saya.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Akun saya belum verifikasi centang biru, tapi toko ini asli kok.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Akun ini saya buat khusus untuk jual kulkas bekas.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Buruan kak, stok tinggal 1 buat PS5 ini!
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Maaf belum sempat verifikasi akun, tapi barang dijamin sampai.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Akun ini belum resmi terverifikasi platform, tapi legit kok kak.
+R12;suspicious_link;medium;Pesan berisi tautan mencurigakan untuk klaim hadiah/verifikasi;Klik link berikut untuk klaim hadiah undian senilai Rp500.000.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Status toko belum verified, tapi sudah banyak yang order dari saya.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Karena butuh uang cepat, iPhone saya lepas jauh di bawah harga pasar.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Buruan kak, stok tinggal 1 buat jam tangan ini!
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Mohon kirimkan foto KTP dan selfie untuk proses pencairan dana.
+R10;no_cod_option;medium;Penjual menolak opsi COD tanpa alasan yang jelas;Karena barang dari luar kota, COD tidak bisa dilakukan.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Akun saya belum verifikasi centang biru, tapi toko ini asli kok.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Fotonya nyusul ya kak, sekarang belum sempat foto barangnya.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Halo kak, saya jual tas original, ini pertama kali kita transaksi ya.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Mohon DP 100% dulu sebelum saya packing PS5.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Akun toko saya baru dibuat minggu ini, tapi barang dijamin ori.
+R01;direct_transfer;high;Penjual meminta transfer langsung sebelum barang dikirim;Silakan transfer ke rekening ini sebelum barang saya kirim.
+R09;unverified_account;low;Akun penjual tidak terverifikasi;Akun ini belum resmi terverifikasi platform, tapi legit kok kak.
+R07;pin_password_request;critical;Diminta memberikan PIN, password, atau data rahasia lainnya;Untuk verifikasi akun, masukkan password dan PIN e-wallet Anda di sini.
+R03;unrealistic_price;high;Harga jauh di bawah harga pasar wajar;Jual iPhone cuma Rp150.000, jauh di bawah harga toko resmi.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Videonya belum sempat saya buat, percaya aja kak barangnya ada.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Untuk verifikasi pembelian, kirim foto KTP Anda ke sini ya.
+R02;urgency;medium;Penjual mendesak pembayaran cepat (mis. 'stok terbatas', 'buruan');Buruan kak, stok tinggal 1 buat tas original ini!
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Maaf gak bisa kirim video unboxing sebelum transfer.
+R05;no_product_evidence;medium;Penjual tidak memberikan bukti foto/video barang asli;Saya cuma punya foto dari katalog, bukan foto barang asli.
+R04;unknown_seller;medium;Pengguna tidak mengenal atau belum pernah bertransaksi dengan penjual ini;Akun ini saya buat khusus untuk jual jam tangan bekas.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Belum genap sebulan saya jualan online, tapi stok banyak kok.
+R11;personal_data_request;high;Diminta mengirim foto KTP atau data identitas pribadi;Untuk verifikasi pembelian, kirim foto KTP Anda ke sini ya.
+R08;new_account;medium;Akun penjual baru dibuat (kurang dari 30 hari);Toko ini baru buka 10 menit yang lalu di marketplace.

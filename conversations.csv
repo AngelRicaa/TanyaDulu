@@ -1,0 +1,1201 @@
+case_id;known_info;missing_info;question;answer
+C0001;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0001;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0001;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0002;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0002;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0002;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0003;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0003;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0003;"harga di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0004;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0004;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0004;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0005;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0005;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0005;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0006;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0006;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0006;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0007;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0007;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0007;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0008;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0008;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0008;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0009;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0009;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0009;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0010;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0010;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0010;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0011;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0011;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0011;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0012;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0012;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0012;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0013;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0013;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0013;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0014;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0014;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0014;"harga sesuai pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0015;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0015;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0015;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0016;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0016;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0016;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0017;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0017;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0017;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0018;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0018;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0018;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0019;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0019;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0019;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0020;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0020;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0020;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0021;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0021;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0021;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0022;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0022;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0022;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0023;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0023;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0023;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0024;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0024;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0024;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0025;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0025;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0025;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0026;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0026;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0026;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0027;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0027;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0027;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0028;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0028;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0028;"harga sesuai pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0029;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0029;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0029;"harga di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0030;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0030;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0030;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0031;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0031;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0031;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0032;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0032;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0032;"harga di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0033;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0033;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0033;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0034;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0034;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0034;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0035;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0035;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0035;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0036;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0036;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0036;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0037;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0037;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0037;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0038;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0038;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0038;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0039;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0039;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0039;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0040;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0040;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0040;"harga sesuai pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0041;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0041;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0041;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0042;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0042;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0042;"harga di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0043;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0043;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0043;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0044;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0044;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0044;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0045;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0045;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0045;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0046;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0046;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0046;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0047;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0047;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0047;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0048;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0048;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0048;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0049;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0049;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0049;"harga di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0050;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0050;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0050;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0051;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0051;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0051;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0052;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0052;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0052;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0053;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0053;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0053;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0054;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0054;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0054;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0055;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0055;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0055;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0056;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0056;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0056;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0057;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0057;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0057;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0058;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0058;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0058;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0059;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0059;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0059;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0060;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0060;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0060;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0061;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0061;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0061;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0062;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0062;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0062;"harga di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0063;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0063;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0063;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0064;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0064;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0064;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0065;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0065;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0065;"harga sesuai pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0066;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0066;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0066;"harga di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0067;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0067;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0067;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0068;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0068;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0068;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0069;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0069;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0069;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0070;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0070;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0070;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0071;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0071;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0071;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0072;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0072;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0072;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0073;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0073;"harga jauh di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0073;"harga jauh di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0074;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0074;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0074;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0075;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0075;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0075;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0076;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0076;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0076;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0077;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0077;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0077;"harga sesuai pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0078;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0078;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0078;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0079;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0079;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0079;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0080;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0080;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0080;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0081;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0081;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0081;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0082;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0082;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0082;"harga di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0083;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0083;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0083;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0084;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0084;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0084;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0085;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0085;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0085;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0086;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0086;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0086;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0087;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0087;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0087;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0088;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0088;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0088;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0089;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0089;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0089;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0090;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0090;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0090;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0091;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0091;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0091;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0092;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0092;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0092;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0093;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0093;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0093;"harga di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0094;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0094;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0094;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0095;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0095;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0095;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0096;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0096;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0096;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0097;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0097;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0097;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0098;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0098;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0098;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0099;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0099;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0099;"harga di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0100;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0100;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0100;"harga sesuai pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0101;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0101;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0101;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0102;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0102;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0102;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0103;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0103;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0103;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0104;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0104;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0104;"harga sesuai pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0105;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0105;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0105;"harga di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0106;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0106;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0106;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0107;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0107;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0107;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0108;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0108;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0108;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0109;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0109;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0109;"harga di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0110;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0110;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0110;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0111;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0111;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0111;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0112;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0112;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0112;"harga di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0113;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0113;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0113;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0114;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0114;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0114;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0115;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0115;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0115;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0116;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0116;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0116;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0117;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0117;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0117;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0118;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0118;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0118;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0119;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0119;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0119;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0120;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0120;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0120;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0121;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0121;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0121;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0122;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0122;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0122;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0123;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0123;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0123;"harga di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0124;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0124;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0124;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0125;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0125;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0125;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0126;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0126;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0126;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0127;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0127;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0127;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0128;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0128;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0128;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0129;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0129;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0129;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0130;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0130;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0130;"harga di bawah pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0131;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0131;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0131;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0132;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0132;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0132;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0133;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0133;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0133;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0134;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0134;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0134;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0135;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0135;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0135;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0136;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0136;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0136;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0137;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0137;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0137;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0138;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0138;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0138;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0139;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0139;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0139;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0140;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0140;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0140;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0141;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0141;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0141;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0142;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0142;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0142;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0143;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0143;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0143;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0144;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0144;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0144;"harga sesuai pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0145;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0145;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0145;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0146;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0146;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0146;"harga di bawah pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0147;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0147;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0147;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0148;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0148;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0148;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0149;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0149;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0149;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0150;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0150;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0150;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0151;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0151;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0151;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0152;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0152;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0152;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0153;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0153;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0153;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0154;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0154;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0154;"harga di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0155;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0155;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0155;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0156;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0156;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0156;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0157;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0157;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0157;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0158;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0158;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0158;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0159;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0159;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0159;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0160;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0160;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0160;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0161;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0161;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0161;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0162;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0162;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0162;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0163;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0163;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0163;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0164;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0164;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0164;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0165;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0165;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0165;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0166;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0166;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0166;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0167;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0167;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0167;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0168;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0168;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0168;"harga di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0169;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0169;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0169;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0170;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0170;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0170;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0171;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0171;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0171;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0172;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0172;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0172;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0173;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0173;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0173;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0174;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0174;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0174;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0175;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0175;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0175;"harga di bawah pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0176;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0176;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0176;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0177;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0177;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0177;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0178;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0178;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0178;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0179;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0179;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0179;"harga sesuai pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0180;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0180;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0180;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0181;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0181;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0181;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0182;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0182;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0182;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0183;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0183;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0183;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0184;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0184;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0184;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0185;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0185;"harga jauh di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0185;"harga jauh di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0186;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0186;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0186;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0187;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0187;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0187;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0188;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0188;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0188;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0189;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0189;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0189;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0190;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0190;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0190;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0191;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0191;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0191;"harga di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0192;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0192;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0192;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0193;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0193;"harga jauh di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0193;"harga jauh di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0194;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0194;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0194;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0195;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0195;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0195;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0196;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0196;"harga jauh di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0196;"harga jauh di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0197;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0197;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0197;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0198;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0198;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0198;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0199;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0199;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0199;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0200;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0200;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0200;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0201;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0201;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0201;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0202;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0202;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0202;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0203;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0203;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0203;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0204;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0204;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0204;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0205;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0205;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0205;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0206;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0206;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0206;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0207;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0207;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0207;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0208;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0208;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0208;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0209;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0209;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0209;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0210;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0210;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0210;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0211;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0211;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0211;"harga di bawah pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0212;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0212;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0212;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0213;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0213;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0213;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0214;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0214;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0214;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0215;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0215;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0215;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0216;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0216;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0216;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0217;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0217;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0217;"harga sesuai pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0218;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0218;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0218;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0219;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0219;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0219;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0220;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0220;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0220;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0221;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0221;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0221;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0222;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0222;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0222;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0223;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0223;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0223;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0224;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0224;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0224;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0225;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0225;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0225;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0226;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0226;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0226;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0227;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0227;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0227;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0228;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0228;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0228;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0229;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0229;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0229;"harga di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0230;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0230;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0230;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0231;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0231;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0231;"harga sesuai pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0232;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0232;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0232;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0233;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0233;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0233;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0234;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0234;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0234;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0235;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0235;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0235;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0236;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0236;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0236;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0237;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0237;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0237;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0238;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0238;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0238;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0239;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0239;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0239;"harga di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0240;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0240;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0240;"harga di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0241;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0241;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0241;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0242;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0242;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0242;"harga di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0243;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0243;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0243;"harga sesuai pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0244;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0244;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0244;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0245;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0245;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0245;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0246;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0246;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0246;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0247;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0247;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0247;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0248;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0248;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0248;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0249;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0249;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0249;"harga di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0250;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0250;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0250;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0251;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0251;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0251;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0252;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0252;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0252;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0253;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0253;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0253;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0254;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0254;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0254;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0255;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0255;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0255;"harga sesuai pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0256;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0256;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0256;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0257;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0257;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0257;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0258;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0258;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0258;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0259;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0259;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0259;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0260;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0260;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0260;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0261;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0261;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0261;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0262;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0262;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0262;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0263;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0263;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0263;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0264;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0264;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0264;"harga sesuai pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0265;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0265;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0265;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0266;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0266;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0266;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0267;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0267;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0267;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0268;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0268;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0268;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0269;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0269;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0269;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0270;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0270;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0270;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0271;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0271;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0271;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0272;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0272;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0272;"harga di bawah pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0273;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0273;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0273;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0274;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0274;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0274;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0275;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0275;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0275;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0276;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0276;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0276;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0277;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0277;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0277;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0278;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0278;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0278;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0279;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0279;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0279;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0280;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0280;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0280;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0281;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0281;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0281;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0282;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0282;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0282;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0283;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0283;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0283;"harga di bawah pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0284;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0284;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0284;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0285;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0285;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0285;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0286;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0286;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0286;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0287;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0287;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0287;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0288;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0288;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0288;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0289;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0289;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0289;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0290;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0290;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0290;"harga sesuai pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0291;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0291;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0291;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0292;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0292;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0292;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0293;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0293;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0293;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0294;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0294;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0294;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0295;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0295;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0295;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0296;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0296;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0296;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0297;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0297;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0297;"harga di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0298;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0298;"harga jauh di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0298;"harga jauh di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0299;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0299;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0299;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0300;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0300;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0300;"harga di bawah pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0301;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0301;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0301;"harga sesuai pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0302;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0302;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0302;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0303;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0303;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0303;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0304;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0304;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0304;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0305;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0305;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0305;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0306;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0306;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0306;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0307;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0307;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0307;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0308;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0308;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0308;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0309;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0309;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0309;"harga di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0310;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0310;"harga jauh di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0310;"harga jauh di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0311;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0311;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0311;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0312;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0312;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0312;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0313;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0313;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0313;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0314;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0314;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0314;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0315;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0315;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0315;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0316;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0316;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0316;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0317;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0317;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0317;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0318;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0318;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0318;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0319;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0319;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0319;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0320;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0320;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0320;"harga di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0321;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0321;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0321;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0322;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0322;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0322;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0323;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0323;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0323;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0324;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0324;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0324;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0325;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0325;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0325;"harga di bawah pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0326;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0326;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0326;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0327;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0327;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0327;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0328;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0328;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0328;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0329;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0329;"harga jauh di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0329;"harga jauh di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0330;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0330;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0330;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0331;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0331;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0331;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0332;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0332;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0332;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0333;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0333;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0333;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0334;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0334;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0334;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0335;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0335;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0335;"harga di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0336;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0336;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0336;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0337;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0337;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0337;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0338;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0338;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0338;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0339;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0339;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0339;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0340;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0340;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0340;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0341;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0341;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0341;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0342;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0342;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0342;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0343;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0343;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0343;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0344;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0344;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0344;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0345;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0345;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0345;"harga sesuai pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0346;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0346;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0346;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0347;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0347;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0347;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0348;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0348;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0348;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0349;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0349;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0349;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0350;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0350;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0350;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0351;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0351;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0351;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0352;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0352;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0352;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0353;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0353;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0353;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0354;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0354;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0354;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0355;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0355;"harga jauh di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0355;"harga jauh di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0356;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0356;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0356;"harga sesuai pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0357;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0357;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0357;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0358;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0358;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0358;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0359;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0359;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0359;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0360;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0360;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0360;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0361;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0361;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0361;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0362;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0362;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0362;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0363;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0363;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0363;"harga di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0364;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0364;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0364;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0365;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0365;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0365;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0366;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0366;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0366;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0367;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0367;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0367;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0368;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0368;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0368;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0369;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0369;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0369;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0370;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0370;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0370;"harga sesuai pasar; penjual dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0371;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0371;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0371;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0372;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0372;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0372;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0373;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0373;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0373;"harga di bawah pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0374;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0374;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0374;"harga di bawah pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0375;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0375;"harga di bawah pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0375;"harga di bawah pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0376;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0376;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0376;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0377;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0377;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0377;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0378;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0378;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0378;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0379;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0379;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0379;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0380;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0380;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0380;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0381;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0381;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0381;"harga jauh di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0382;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0382;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0382;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0383;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0383;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0383;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0384;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0384;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0384;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0385;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0385;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0385;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0386;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0386;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0386;"harga sesuai pasar; penjual dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0387;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0387;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0387;"harga di bawah pasar; penjual tidak dikenal; pembayaran e-wallet dengan proteksi";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0388;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0388;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0388;"harga sesuai pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0389;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;yes
+C0389;"harga sesuai pasar; penjual dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0389;"harga sesuai pasar; penjual dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0390;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0390;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0390;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0391;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0391;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0391;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0392;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0392;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0392;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0393;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0393;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0393;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0394;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0394;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0394;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0395;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0395;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0395;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0396;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0396;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0396;"harga di bawah pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0397;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0397;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0397;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no
+C0398;harga di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0398;"harga di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0398;"harga di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0399;harga sesuai pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0399;"harga sesuai pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;no
+C0399;"harga sesuai pasar; penjual tidak dikenal; pembayaran COD";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;yes
+C0400;harga jauh di bawah pasar;seller relationship;Apakah Anda mengenal penjual ini atau pernah membeli dari akun ini sebelumnya?;no
+C0400;"harga jauh di bawah pasar; penjual tidak dikenal";payment method;Apakah penjual meminta Anda transfer langsung sebelum barang dikirim?;yes
+C0400;"harga jauh di bawah pasar; penjual tidak dikenal; transfer langsung diminta";product evidence;Apakah penjual sudah memberikan foto atau video barang asli?;no

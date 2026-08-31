@@ -1,0 +1,401 @@
+case_id,product,price,market_price,seller_known,payment,urgency,evidence,label,seller_user_id
+C0001,Set Peralatan Dapur,948rb,950rb,yes,COD,no,yes,low,U05384
+C0002,Samsung Galaxy S23,5.9jt,11.5jt,yes,transfer,yes,no,high,U06407
+C0003,Kursi Gaming,1.4jt,2.4jt,no,e-wallet (protected),no,no,high,U06774
+C0004,TV LED 50 inch,5.4jt,6jt,no,COD,no,yes,low,U00296
+C0005,Speaker Bluetooth,601rb,700rb,yes,COD,yes,yes,low,U01372
+C0006,Kompor Gas 2 Tungku,225rb,550rb,no,transfer,no,no,high,U04456
+C0007,Samsung Galaxy S23,4.6jt,11.5jt,no,transfer,yes,no,high,U09955
+C0008,Sofa 3 Dudukan,1.1jt,3.2jt,no,transfer,yes,no,high,U05889
+C0009,PS5,4.8jt,8jt,no,transfer,no,yes,high,U06636
+C0010,Sepeda Lipat,1.0jt,2.8jt,no,transfer,yes,no,high,U07077
+C0011,Sofa 3 Dudukan,775rb,3.2jt,no,transfer,yes,no,high,U01675
+C0012,AC 1 PK,3.6jt,3.8jt,no,COD,no,no,medium,U08717
+C0013,Tas Branded,3.9jt,4.5jt,yes,transfer,no,yes,low,U07720
+C0014,Motor Bekas Matic,11.9jt,14jt,no,e-wallet (protected),yes,yes,medium,U00407
+C0015,Lemari Pakaian,725rb,2jt,no,transfer,yes,no,high,U01401
+C0016,Printer Epson,269rb,1.4jt,no,transfer,yes,no,high,U08819
+C0017,Kompor Gas 2 Tungku,172rb,550rb,no,transfer,yes,no,high,U01398
+C0018,Karpet Persia,2.1jt,2.2jt,yes,e-wallet (protected),yes,no,medium,U07490
+C0019,Sepeda Lipat,2.8jt,2.8jt,no,COD,no,yes,low,U07889
+C0020,Handphone Xiaomi,2.9jt,3jt,no,COD,no,yes,low,U09665
+C0021,Karpet Persia,1.7jt,2.2jt,yes,transfer,yes,no,high,U07463
+C0022,Perhiasan Emas 10gr,5.4jt,10jt,yes,transfer,yes,yes,high,U03027
+C0023,iPhone 15 Pro,19.0jt,19.5jt,yes,e-wallet (protected),yes,yes,low,U09565
+C0024,Kulkas 2 Pintu,874rb,5jt,no,e-wallet (protected),yes,no,high,U08163
+C0025,Tablet iPad,4.0jt,7.5jt,no,transfer,yes,no,high,U08358
+C0026,Lemari Pakaian,652rb,2jt,no,transfer,yes,yes,high,U02128
+C0027,Sofa 3 Dudukan,1.8jt,3.2jt,yes,transfer,yes,yes,high,U04870
+C0028,Laptop ASUS ROG,17.8jt,17jt,no,e-wallet (protected),yes,no,medium,U05950
+C0029,Meja Kerja Kayu,661rb,1.1jt,no,COD,no,no,medium,U02454
+C0030,Karpet Persia,583rb,2.2jt,no,e-wallet (protected),yes,no,high,U09204
+C0031,Laptop Macbook Air M2,13.8jt,15.5jt,yes,e-wallet (protected),no,yes,low,U04640
+C0032,Drone DJI Mini,5.8jt,7jt,no,COD,yes,no,medium,U00268
+C0033,Speaker Bluetooth,715rb,700rb,yes,e-wallet (protected),no,yes,low,U07280
+C0034,Speaker Bluetooth,687rb,700rb,yes,COD,no,yes,low,U04737
+C0035,Sepeda Lipat,2.4jt,2.8jt,no,COD,yes,no,medium,U05640
+C0036,Sepatu Sneakers Original,475rb,1.6jt,no,transfer,yes,yes,high,U03944
+C0037,Perhiasan Emas 10gr,9.0jt,10jt,yes,COD,no,yes,low,U05542
+C0038,Jam Tangan Original,3.8jt,3.8jt,yes,transfer,yes,yes,medium,U05455
+C0039,Perhiasan Emas 10gr,9.6jt,10jt,yes,transfer,no,yes,medium,U02762
+C0040,Set Kosmetik Original,426rb,450rb,no,e-wallet (protected),no,yes,low,U09226
+C0041,iPhone 13,10.0jt,10jt,no,COD,no,yes,low,U09276
+C0042,AC 1 PK,3.2jt,3.8jt,no,e-wallet (protected),no,no,medium,U05090
+C0043,AC 1 PK,3.3jt,3.8jt,yes,e-wallet (protected),no,no,low,U08225
+C0044,Sofa 3 Dudukan,1.1jt,3.2jt,no,transfer,yes,no,high,U09231
+C0045,Karpet Persia,905rb,2.2jt,no,transfer,yes,yes,high,U03787
+C0046,Tablet iPad,2.9jt,7.5jt,no,transfer,yes,no,high,U07363
+C0047,Motor Bekas Matic,5.6jt,14jt,no,transfer,yes,no,high,U00455
+C0048,Sepeda Lipat,2.4jt,2.8jt,yes,e-wallet (protected),yes,yes,low,U04808
+C0049,Jam Tangan Original,3.2jt,3.8jt,no,e-wallet (protected),no,no,medium,U04938
+C0050,Drone DJI Mini,1.4jt,7jt,no,transfer,yes,no,high,U02610
+C0051,Jam Tangan Original,3.9jt,3.8jt,yes,COD,no,yes,low,U01502
+C0052,Lemari Pakaian,719rb,2jt,no,transfer,no,no,high,U02657
+C0053,Speaker Bluetooth,557rb,700rb,no,transfer,no,yes,medium,U03896
+C0054,Kursi Gaming,2.1jt,2.4jt,yes,e-wallet (protected),no,no,low,U06266
+C0055,Drone DJI Mini,4.8jt,7jt,yes,transfer,yes,no,high,U03177
+C0056,TV LED 50 inch,3.9jt,6jt,yes,transfer,yes,no,high,U03853
+C0057,Lemari Pakaian,1.9jt,2jt,no,COD,no,no,medium,U00920
+C0058,Mesin Cuci,3.3jt,3.8jt,yes,COD,no,no,low,U01134
+C0059,Sepatu Sneakers Original,1.2jt,1.6jt,yes,transfer,yes,yes,medium,U06142
+C0060,Kursi Gaming,2.4jt,2.4jt,no,COD,no,yes,low,U03422
+C0061,Sepatu Sneakers Original,1.4jt,1.6jt,no,COD,no,yes,low,U06091
+C0062,Speaker Bluetooth,535rb,700rb,no,e-wallet (protected),yes,yes,medium,U02019
+C0063,Sepatu Sneakers Original,576rb,1.6jt,no,transfer,yes,no,high,U05650
+C0064,Tas Branded,882rb,4.5jt,no,transfer,yes,no,high,U09434
+C0065,Samsung Galaxy S23,10.3jt,11.5jt,no,e-wallet (protected),no,yes,low,U08092
+C0066,Sepatu Sneakers Original,915rb,1.6jt,no,e-wallet (protected),yes,no,high,U04470
+C0067,Motor Bekas Matic,11.6jt,14jt,yes,transfer,yes,no,high,U09525
+C0068,Printer Epson,531rb,1.4jt,no,transfer,yes,no,high,U03628
+C0069,TV LED 50 inch,2.3jt,6jt,no,transfer,yes,no,high,U03851
+C0070,iPhone 15 Pro,6.0jt,19.5jt,no,transfer,yes,no,high,U05778
+C0071,iPhone 13,9.2jt,10jt,yes,COD,yes,yes,low,U01038
+C0072,Kulkas 2 Pintu,1.3jt,5jt,no,transfer,yes,no,high,U08622
+C0073,Handphone Xiaomi,342rb,3jt,yes,transfer,yes,no,high,U08538
+C0074,Laptop Macbook Air M2,8.4jt,15.5jt,no,transfer,no,yes,high,U05557
+C0075,Speaker Bluetooth,245rb,700rb,no,transfer,yes,no,high,U08959
+C0076,Drone DJI Mini,3.0jt,7jt,no,transfer,no,no,high,U09558
+C0077,Sepeda Lipat,2.8jt,2.8jt,no,transfer,no,no,medium,U08239
+C0078,Kamera Mirrorless Sony,7.7jt,10.5jt,yes,transfer,no,yes,medium,U05325
+C0079,Laptop ASUS ROG,10.7jt,17jt,no,transfer,no,yes,medium,U08869
+C0080,Set Peralatan Dapur,961rb,950rb,yes,COD,no,yes,low,U09510
+C0081,TV LED 50 inch,2.3jt,6jt,no,transfer,yes,no,high,U04108
+C0082,Lemari Pakaian,1.0jt,2jt,no,COD,no,no,medium,U05040
+C0083,Kulkas 2 Pintu,1.7jt,5jt,no,COD,yes,yes,medium,U07455
+C0084,Tas Branded,2.6jt,4.5jt,no,transfer,yes,yes,high,U07041
+C0085,Sepeda Lipat,1.6jt,2.8jt,no,transfer,yes,yes,high,U00138
+C0086,TV LED 50 inch,4.0jt,6jt,no,transfer,yes,yes,high,U05381
+C0087,Handphone Xiaomi,501rb,3jt,no,transfer,yes,no,high,U02459
+C0088,Mesin Cuci,1.5jt,3.8jt,no,transfer,yes,no,high,U05238
+C0089,Kulkas 2 Pintu,4.3jt,5jt,yes,e-wallet (protected),no,no,low,U02138
+C0090,Set Kosmetik Original,408rb,450rb,yes,COD,yes,yes,low,U08377
+C0091,Laptop ASUS ROG,4.1jt,17jt,no,transfer,no,yes,high,U08699
+C0092,Mesin Cuci,3.4jt,3.8jt,yes,COD,no,yes,low,U01610
+C0093,Motor Bekas Matic,9.2jt,14jt,no,e-wallet (protected),no,no,medium,U04880
+C0094,Printer Epson,1.4jt,1.4jt,no,COD,no,yes,low,U09755
+C0095,Samsung Galaxy S23,10.7jt,11.5jt,no,COD,no,yes,low,U05319
+C0096,Kursi Gaming,299rb,2.4jt,no,transfer,yes,no,high,U05427
+C0097,Meja Kerja Kayu,1.0jt,1.1jt,yes,COD,no,yes,low,U05457
+C0098,Speaker Bluetooth,209rb,700rb,no,transfer,yes,no,high,U05214
+C0099,Jam Tangan Original,2.4jt,3.8jt,no,e-wallet (protected),yes,no,medium,U04095
+C0100,Samsung Galaxy S23,11.3jt,11.5jt,no,transfer,no,no,medium,U07067
+C0101,Drone DJI Mini,7.0jt,7jt,yes,transfer,yes,yes,medium,U00733
+C0102,Meja Kerja Kayu,312rb,1.1jt,no,transfer,yes,no,high,U06141
+C0103,TV LED 50 inch,4.0jt,6jt,no,transfer,yes,yes,high,U07347
+C0104,TV LED 50 inch,5.2jt,6jt,no,e-wallet (protected),no,yes,low,U03645
+C0105,Sepatu Sneakers Original,905rb,1.6jt,no,e-wallet (protected),yes,no,high,U07118
+C0106,Kulkas 2 Pintu,4.1jt,5jt,no,transfer,no,no,high,U05974
+C0107,Tablet iPad,6.6jt,7.5jt,yes,transfer,no,no,medium,U02505
+C0108,Sepatu Sneakers Original,522rb,1.6jt,no,e-wallet (protected),yes,no,high,U04703
+C0109,Kompor Gas 2 Tungku,365rb,550rb,no,COD,no,no,medium,U09049
+C0110,Set Kosmetik Original,452rb,450rb,no,COD,no,yes,low,U07848
+C0111,Mesin Cuci,1.5jt,3.8jt,no,transfer,yes,no,high,U08930
+C0112,Kamera Mirrorless Sony,8.1jt,10.5jt,no,e-wallet (protected),yes,no,high,U07073
+C0113,Drone DJI Mini,5.6jt,7jt,no,transfer,yes,no,high,U09110
+C0114,Motor Bekas Matic,5.3jt,14jt,no,transfer,yes,yes,high,U02908
+C0115,TV LED 50 inch,2.4jt,6jt,no,transfer,yes,no,high,U04151
+C0116,Set Kosmetik Original,69rb,450rb,no,e-wallet (protected),yes,no,high,U00986
+C0117,Samsung Galaxy S23,4.6jt,11.5jt,no,transfer,yes,no,high,U01521
+C0118,Set Kosmetik Original,322rb,450rb,yes,transfer,no,yes,medium,U03609
+C0119,Meja Kerja Kayu,421rb,1.1jt,no,transfer,yes,no,high,U07977
+C0120,iPhone 13,5.2jt,10jt,no,transfer,no,yes,high,U07677
+C0121,Tablet iPad,6.6jt,7.5jt,no,COD,no,yes,low,U06902
+C0122,Laptop Macbook Air M2,15.2jt,15.5jt,yes,transfer,yes,yes,medium,U03757
+C0123,Lemari Pakaian,1.1jt,2jt,no,e-wallet (protected),no,no,medium,U01548
+C0124,Sepatu Sneakers Original,271rb,1.6jt,no,transfer,yes,no,high,U06732
+C0125,Mesin Cuci,762rb,3.8jt,no,transfer,yes,no,high,U07178
+C0126,Handphone Xiaomi,351rb,3jt,no,transfer,yes,no,high,U00401
+C0127,Speaker Bluetooth,123rb,700rb,no,transfer,yes,no,high,U02286
+C0128,Kompor Gas 2 Tungku,478rb,550rb,no,COD,no,yes,low,U00391
+C0129,Printer Epson,1.4jt,1.4jt,yes,COD,no,no,low,U04209
+C0130,Jam Tangan Original,2.2jt,3.8jt,yes,e-wallet (protected),yes,no,medium,U02208
+C0131,Printer Epson,534rb,1.4jt,no,transfer,yes,no,high,U06142
+C0132,Printer Epson,334rb,1.4jt,no,transfer,no,no,high,U00241
+C0133,AC 1 PK,3.5jt,3.8jt,no,COD,no,yes,low,U05116
+C0134,Laptop ASUS ROG,4.5jt,17jt,no,e-wallet (protected),yes,no,high,U03078
+C0135,Samsung Galaxy S23,3.0jt,11.5jt,no,transfer,no,yes,high,U09676
+C0136,Mesin Cuci,527rb,3.8jt,no,transfer,yes,no,high,U06877
+C0137,Meja Kerja Kayu,867rb,1.1jt,no,transfer,yes,no,high,U06974
+C0138,iPhone 13,1.8jt,10jt,no,transfer,yes,no,high,U08082
+C0139,AC 1 PK,1.2jt,3.8jt,no,transfer,yes,no,high,U05076
+C0140,Samsung Galaxy S23,3.7jt,11.5jt,no,COD,yes,no,high,U08171
+C0141,Tablet iPad,3.9jt,7.5jt,no,transfer,no,no,high,U04104
+C0142,Handphone Xiaomi,3.1jt,3jt,yes,e-wallet (protected),no,yes,low,U07192
+C0143,Tablet iPad,7.4jt,7.5jt,yes,COD,no,yes,low,U02402
+C0144,iPhone 15 Pro,16.8jt,19.5jt,no,transfer,no,yes,medium,U08978
+C0145,Jam Tangan Original,2.5jt,3.8jt,yes,transfer,yes,no,high,U04131
+C0146,Jam Tangan Original,2.7jt,3.8jt,yes,e-wallet (protected),yes,yes,low,U07330
+C0147,Tas Branded,1.1jt,4.5jt,no,transfer,no,yes,high,U00479
+C0148,Set Peralatan Dapur,711rb,950rb,no,transfer,no,no,high,U00388
+C0149,Laptop ASUS ROG,2.4jt,17jt,no,transfer,yes,no,high,U05878
+C0150,Sepatu Sneakers Original,391rb,1.6jt,no,transfer,yes,no,high,U04236
+C0151,Lemari Pakaian,2.1jt,2jt,no,COD,no,yes,low,U07633
+C0152,Laptop ASUS ROG,3.9jt,17jt,no,transfer,yes,no,high,U05699
+C0153,Laptop ASUS ROG,13.7jt,17jt,no,transfer,yes,yes,high,U03772
+C0154,Speaker Bluetooth,375rb,700rb,no,COD,yes,no,high,U09354
+C0155,Set Kosmetik Original,243rb,450rb,yes,transfer,yes,no,high,U01939
+C0156,Speaker Bluetooth,206rb,700rb,no,transfer,yes,yes,high,U05354
+C0157,Kursi Gaming,1.0jt,2.4jt,no,transfer,no,no,high,U09667
+C0158,Laptop Macbook Air M2,6.8jt,15.5jt,no,transfer,yes,no,high,U01979
+C0159,Kamera Mirrorless Sony,6.4jt,10.5jt,no,transfer,yes,yes,high,U06226
+C0160,iPhone 13,2.0jt,10jt,no,transfer,yes,no,high,U03848
+C0161,Laptop ASUS ROG,9.2jt,17jt,no,transfer,yes,yes,high,U01055
+C0162,Motor Bekas Matic,1.7jt,14jt,no,e-wallet (protected),yes,no,high,U01922
+C0163,TV LED 50 inch,5.7jt,6jt,yes,COD,no,yes,low,U05092
+C0164,Kompor Gas 2 Tungku,123rb,550rb,no,transfer,yes,no,high,U04144
+C0165,Set Kosmetik Original,292rb,450rb,no,transfer,no,yes,medium,U09740
+C0166,PS5,2.5jt,8jt,no,e-wallet (protected),no,no,medium,U04643
+C0167,Meja Kerja Kayu,785rb,1.1jt,no,transfer,no,yes,medium,U00198
+C0168,Samsung Galaxy S23,6.2jt,11.5jt,no,e-wallet (protected),no,no,high,U00710
+C0169,Kompor Gas 2 Tungku,478rb,550rb,yes,COD,no,no,low,U01210
+C0170,PS5,2.6jt,8jt,no,transfer,yes,no,high,U09877
+C0171,Set Peralatan Dapur,302rb,950rb,no,transfer,yes,yes,high,U08554
+C0172,Set Peralatan Dapur,566rb,950rb,yes,transfer,no,no,high,U07367
+C0173,Kamera Mirrorless Sony,1.3jt,10.5jt,no,transfer,yes,no,high,U07022
+C0174,Drone DJI Mini,5.4jt,7jt,no,transfer,yes,no,high,U06049
+C0175,Speaker Bluetooth,386rb,700rb,yes,COD,yes,yes,medium,U09890
+C0176,Jam Tangan Original,426rb,3.8jt,no,e-wallet (protected),yes,no,high,U03228
+C0177,Kamera Mirrorless Sony,2.5jt,10.5jt,no,transfer,no,no,high,U08759
+C0178,Samsung Galaxy S23,8.0jt,11.5jt,no,transfer,yes,no,high,U01701
+C0179,Set Kosmetik Original,389rb,450rb,no,e-wallet (protected),no,yes,low,U00285
+C0180,Motor Bekas Matic,13.9jt,14jt,yes,transfer,no,yes,low,U06353
+C0181,Lemari Pakaian,862rb,2jt,no,e-wallet (protected),no,no,high,U08799
+C0182,Kamera Mirrorless Sony,9.6jt,10.5jt,no,COD,no,yes,low,U03010
+C0183,Laptop Macbook Air M2,15.8jt,15.5jt,yes,e-wallet (protected),no,no,low,U02208
+C0184,Lemari Pakaian,1.5jt,2jt,yes,transfer,no,no,medium,U07803
+C0185,Tablet iPad,2.6jt,7.5jt,yes,transfer,yes,no,high,U09469
+C0186,Mesin Cuci,1.4jt,3.8jt,no,transfer,yes,no,high,U01292
+C0187,Kamera Mirrorless Sony,3.1jt,10.5jt,no,transfer,yes,no,high,U07650
+C0188,PS5,3.0jt,8jt,no,transfer,yes,no,high,U07873
+C0189,Karpet Persia,2.3jt,2.2jt,no,COD,no,yes,low,U00197
+C0190,Laptop Macbook Air M2,2.0jt,15.5jt,no,transfer,yes,no,high,U06890
+C0191,iPhone 13,6.3jt,10jt,no,COD,no,yes,low,U09607
+C0192,Kompor Gas 2 Tungku,119rb,550rb,no,COD,yes,no,high,U07885
+C0193,Handphone Xiaomi,771rb,3jt,yes,transfer,yes,no,high,U08678
+C0194,Printer Epson,347rb,1.4jt,no,transfer,no,no,high,U09124
+C0195,Tablet iPad,914rb,7.5jt,no,transfer,yes,no,high,U02307
+C0196,Sepeda Lipat,555rb,2.8jt,yes,transfer,yes,no,high,U06561
+C0197,Samsung Galaxy S23,7.2jt,11.5jt,no,transfer,yes,no,high,U04059
+C0198,Motor Bekas Matic,1.6jt,14jt,no,transfer,yes,no,high,U01411
+C0199,Kamera Mirrorless Sony,10.3jt,10.5jt,yes,transfer,no,yes,low,U02728
+C0200,AC 1 PK,2.7jt,3.8jt,no,transfer,yes,no,high,U04264
+C0201,Tablet iPad,7.4jt,7.5jt,no,COD,no,no,low,U08577
+C0202,TV LED 50 inch,1.7jt,6jt,no,transfer,yes,no,high,U05645
+C0203,Mesin Cuci,2.9jt,3.8jt,no,transfer,no,yes,medium,U06228
+C0204,Printer Epson,1.2jt,1.4jt,no,COD,yes,yes,medium,U03794
+C0205,Kulkas 2 Pintu,1.8jt,5jt,no,transfer,yes,no,high,U06385
+C0206,Laptop ASUS ROG,16.7jt,17jt,yes,transfer,no,yes,low,U00385
+C0207,Sepatu Sneakers Original,1.6jt,1.6jt,yes,e-wallet (protected),no,no,low,U00638
+C0208,Samsung Galaxy S23,2.8jt,11.5jt,no,transfer,yes,yes,high,U04686
+C0209,Lemari Pakaian,224rb,2jt,no,transfer,yes,no,high,U08674
+C0210,iPhone 13,3.4jt,10jt,no,transfer,yes,no,high,U05238
+C0211,Kamera Mirrorless Sony,7.6jt,10.5jt,yes,COD,yes,no,medium,U03488
+C0212,Karpet Persia,1.3jt,2.2jt,yes,transfer,yes,yes,high,U04561
+C0213,Sofa 3 Dudukan,3.3jt,3.2jt,yes,e-wallet (protected),no,yes,low,U02880
+C0214,Set Kosmetik Original,150rb,450rb,no,transfer,yes,no,high,U01472
+C0215,Kursi Gaming,828rb,2.4jt,no,transfer,yes,no,high,U04234
+C0216,Sepeda Lipat,300rb,2.8jt,no,transfer,yes,no,high,U02378
+C0217,Perhiasan Emas 10gr,9.1jt,10jt,no,e-wallet (protected),no,no,medium,U07752
+C0218,Samsung Galaxy S23,10.5jt,11.5jt,yes,COD,no,yes,low,U04448
+C0219,Set Peralatan Dapur,730rb,950rb,yes,transfer,yes,no,high,U04089
+C0220,Laptop Macbook Air M2,8.6jt,15.5jt,no,transfer,yes,no,high,U09626
+C0221,Set Kosmetik Original,400rb,450rb,no,COD,no,yes,low,U04119
+C0222,Jam Tangan Original,1.2jt,3.8jt,no,transfer,yes,no,high,U08316
+C0223,Kompor Gas 2 Tungku,62rb,550rb,no,transfer,yes,no,high,U02437
+C0224,Set Peralatan Dapur,916rb,950rb,no,COD,yes,yes,medium,U09740
+C0225,Mesin Cuci,2.9jt,3.8jt,no,transfer,no,yes,medium,U06205
+C0226,Meja Kerja Kayu,657rb,1.1jt,no,transfer,yes,no,high,U01039
+C0227,Motor Bekas Matic,12.9jt,14jt,yes,COD,no,yes,low,U09813
+C0228,Laptop Macbook Air M2,14.1jt,15.5jt,yes,transfer,no,no,medium,U05667
+C0229,Kompor Gas 2 Tungku,386rb,550rb,no,e-wallet (protected),yes,no,high,U09832
+C0230,Perhiasan Emas 10gr,5.1jt,10jt,no,transfer,yes,yes,high,U00085
+C0231,iPhone 13,9.5jt,10jt,no,transfer,no,yes,medium,U04938
+C0232,Meja Kerja Kayu,1.0jt,1.1jt,yes,COD,no,yes,low,U05116
+C0233,Sofa 3 Dudukan,2.0jt,3.2jt,no,transfer,yes,no,high,U04728
+C0234,Lemari Pakaian,290rb,2jt,no,transfer,yes,no,high,U03915
+C0235,Handphone Xiaomi,2.9jt,3jt,yes,COD,no,yes,low,U05417
+C0236,Jam Tangan Original,2.7jt,3.8jt,no,transfer,yes,yes,high,U04685
+C0237,Printer Epson,430rb,1.4jt,no,transfer,yes,no,high,U04066
+C0238,Kompor Gas 2 Tungku,503rb,550rb,yes,COD,no,no,low,U00379
+C0239,iPhone 15 Pro,11.6jt,19.5jt,no,e-wallet (protected),yes,yes,medium,U04438
+C0240,Drone DJI Mini,4.8jt,7jt,no,e-wallet (protected),no,no,medium,U03289
+C0241,iPhone 13,7.5jt,10jt,yes,transfer,yes,yes,medium,U02310
+C0242,Meja Kerja Kayu,821rb,1.1jt,no,e-wallet (protected),yes,no,high,U03294
+C0243,Sofa 3 Dudukan,2.8jt,3.2jt,no,transfer,yes,no,high,U07396
+C0244,TV LED 50 inch,4.4jt,6jt,no,transfer,yes,yes,high,U00826
+C0245,Sofa 3 Dudukan,642rb,3.2jt,no,e-wallet (protected),yes,no,high,U04224
+C0246,Kursi Gaming,506rb,2.4jt,no,e-wallet (protected),yes,no,high,U03677
+C0247,Drone DJI Mini,1.6jt,7jt,no,transfer,yes,no,high,U06142
+C0248,iPhone 13,9.9jt,10jt,yes,COD,no,yes,low,U03548
+C0249,Kompor Gas 2 Tungku,454rb,550rb,no,COD,yes,no,medium,U00939
+C0250,iPhone 13,2.9jt,10jt,no,transfer,yes,no,high,U01664
+C0251,Lemari Pakaian,203rb,2jt,no,e-wallet (protected),yes,no,high,U02150
+C0252,Tas Branded,1.6jt,4.5jt,no,transfer,no,no,high,U00188
+C0253,Drone DJI Mini,7.0jt,7jt,no,COD,yes,yes,low,U04292
+C0254,Karpet Persia,1.0jt,2.2jt,no,transfer,yes,no,high,U00037
+C0255,Perhiasan Emas 10gr,9.1jt,10jt,no,e-wallet (protected),no,yes,low,U05879
+C0256,AC 1 PK,3.0jt,3.8jt,yes,transfer,no,no,medium,U07655
+C0257,PS5,2.6jt,8jt,no,COD,yes,no,high,U03496
+C0258,Handphone Xiaomi,2.9jt,3jt,no,COD,no,yes,low,U04302
+C0259,Lemari Pakaian,2.1jt,2jt,yes,e-wallet (protected),no,yes,low,U02814
+C0260,Handphone Xiaomi,2.7jt,3jt,yes,transfer,no,yes,low,U06028
+C0261,iPhone 13,2.6jt,10jt,no,transfer,yes,no,high,U07555
+C0262,Kursi Gaming,2.5jt,2.4jt,yes,transfer,no,yes,low,U09819
+C0263,Sepatu Sneakers Original,499rb,1.6jt,no,transfer,yes,no,high,U02794
+C0264,Kompor Gas 2 Tungku,494rb,550rb,no,e-wallet (protected),no,yes,low,U09108
+C0265,Samsung Galaxy S23,1.6jt,11.5jt,no,e-wallet (protected),yes,no,high,U09149
+C0266,TV LED 50 inch,1.5jt,6jt,no,transfer,yes,no,high,U07824
+C0267,Tablet iPad,6.6jt,7.5jt,yes,transfer,no,yes,low,U09309
+C0268,Printer Epson,1.3jt,1.4jt,yes,COD,no,yes,low,U05097
+C0269,AC 1 PK,1.6jt,3.8jt,no,e-wallet (protected),no,no,medium,U07274
+C0270,Handphone Xiaomi,1.1jt,3jt,no,transfer,yes,no,high,U01786
+C0271,Motor Bekas Matic,14.6jt,14jt,no,COD,yes,yes,medium,U06337
+C0272,Motor Bekas Matic,10.6jt,14jt,yes,COD,no,yes,low,U04776
+C0273,Printer Epson,960rb,1.4jt,no,transfer,no,yes,medium,U08127
+C0274,iPhone 13,2.5jt,10jt,no,transfer,no,no,high,U02187
+C0275,Speaker Bluetooth,678rb,700rb,no,COD,no,yes,low,U01241
+C0276,AC 1 PK,3.8jt,3.8jt,yes,transfer,no,no,medium,U00194
+C0277,TV LED 50 inch,4.6jt,6jt,no,transfer,yes,no,high,U08649
+C0278,Sepeda Lipat,1.6jt,2.8jt,no,transfer,yes,yes,high,U05768
+C0279,Meja Kerja Kayu,593rb,1.1jt,no,transfer,no,no,high,U07697
+C0280,Meja Kerja Kayu,1.1jt,1.1jt,no,COD,no,yes,low,U08330
+C0281,Tablet iPad,3.9jt,7.5jt,no,transfer,yes,yes,high,U07251
+C0282,Sofa 3 Dudukan,1.7jt,3.2jt,no,transfer,yes,no,high,U05007
+C0283,Kulkas 2 Pintu,3.6jt,5jt,yes,COD,yes,no,medium,U07706
+C0284,AC 1 PK,3.3jt,3.8jt,no,COD,yes,yes,medium,U04417
+C0285,Printer Epson,1.5jt,1.4jt,yes,COD,no,yes,low,U07195
+C0286,AC 1 PK,2.2jt,3.8jt,no,transfer,no,yes,high,U06856
+C0287,Sepatu Sneakers Original,1.7jt,1.6jt,yes,e-wallet (protected),yes,yes,low,U04486
+C0288,iPhone 13,5.8jt,10jt,yes,transfer,yes,no,high,U08770
+C0289,Mesin Cuci,3.4jt,3.8jt,yes,e-wallet (protected),no,yes,low,U03358
+C0290,TV LED 50 inch,6.1jt,6jt,no,transfer,no,yes,medium,U01594
+C0291,PS5,7.7jt,8jt,yes,e-wallet (protected),yes,no,medium,U09126
+C0292,iPhone 13,1.3jt,10jt,no,COD,no,yes,medium,U03505
+C0293,Sepeda Lipat,2.4jt,2.8jt,yes,COD,no,yes,low,U05807
+C0294,Karpet Persia,1.5jt,2.2jt,yes,transfer,no,no,medium,U02326
+C0295,AC 1 PK,397rb,3.8jt,no,transfer,yes,no,high,U07310
+C0296,Karpet Persia,2.0jt,2.2jt,yes,transfer,no,yes,low,U07813
+C0297,Samsung Galaxy S23,7.4jt,11.5jt,no,e-wallet (protected),no,no,medium,U02316
+C0298,Set Peralatan Dapur,311rb,950rb,yes,transfer,yes,no,high,U06954
+C0299,iPhone 15 Pro,2.5jt,19.5jt,no,transfer,yes,no,high,U04653
+C0300,Perhiasan Emas 10gr,5.1jt,10jt,yes,e-wallet (protected),yes,no,medium,U06511
+C0301,Karpet Persia,2.3jt,2.2jt,no,transfer,no,no,high,U09243
+C0302,iPhone 15 Pro,6.0jt,19.5jt,no,transfer,yes,yes,high,U07734
+C0303,Drone DJI Mini,7.1jt,7jt,yes,e-wallet (protected),no,no,low,U04824
+C0304,Tablet iPad,2.7jt,7.5jt,no,e-wallet (protected),no,no,medium,U01682
+C0305,TV LED 50 inch,1.9jt,6jt,no,e-wallet (protected),yes,no,high,U05488
+C0306,Tas Branded,4.3jt,4.5jt,yes,COD,no,yes,low,U09227
+C0307,Mesin Cuci,1.3jt,3.8jt,no,transfer,yes,no,high,U01138
+C0308,TV LED 50 inch,3.2jt,6jt,no,transfer,yes,yes,high,U01004
+C0309,PS5,5.6jt,8jt,no,COD,no,no,medium,U05120
+C0310,Speaker Bluetooth,281rb,700rb,yes,transfer,yes,no,high,U07843
+C0311,Perhiasan Emas 10gr,1.8jt,10jt,no,transfer,yes,no,high,U05794
+C0312,Tas Branded,4.0jt,4.5jt,yes,COD,no,yes,low,U03686
+C0313,Printer Epson,430rb,1.4jt,no,transfer,yes,no,high,U05434
+C0314,Kompor Gas 2 Tungku,209rb,550rb,no,transfer,yes,no,high,U05924
+C0315,Laptop Macbook Air M2,11.0jt,15.5jt,no,transfer,no,yes,medium,U05254
+C0316,Mesin Cuci,1.2jt,3.8jt,no,transfer,yes,no,high,U06636
+C0317,Kamera Mirrorless Sony,10.1jt,10.5jt,yes,transfer,no,yes,low,U08173
+C0318,Kursi Gaming,2.4jt,2.4jt,no,COD,no,no,medium,U03580
+C0319,Tas Branded,4.1jt,4.5jt,yes,COD,no,yes,low,U03401
+C0320,Speaker Bluetooth,448rb,700rb,no,e-wallet (protected),yes,no,high,U03845
+C0321,Kursi Gaming,691rb,2.4jt,no,transfer,yes,no,high,U07367
+C0322,PS5,924rb,8jt,no,transfer,yes,no,high,U06527
+C0323,Laptop ASUS ROG,15.3jt,17jt,yes,transfer,no,yes,low,U02750
+C0324,Kamera Mirrorless Sony,8.1jt,10.5jt,no,transfer,no,yes,medium,U09532
+C0325,Mesin Cuci,3.1jt,3.8jt,yes,e-wallet (protected),no,yes,low,U04368
+C0326,Tablet iPad,7.1jt,7.5jt,yes,COD,no,yes,low,U03275
+C0327,iPhone 13,1.4jt,10jt,no,transfer,yes,no,high,U04635
+C0328,Jam Tangan Original,3.3jt,3.8jt,yes,e-wallet (protected),no,yes,low,U03829
+C0329,PS5,2.0jt,8jt,yes,transfer,yes,no,high,U05384
+C0330,iPhone 15 Pro,3.4jt,19.5jt,no,transfer,no,yes,high,U05203
+C0331,PS5,4.6jt,8jt,yes,transfer,yes,no,high,U00740
+C0332,Speaker Bluetooth,446rb,700rb,yes,transfer,yes,yes,medium,U04707
+C0333,Kursi Gaming,1.0jt,2.4jt,no,transfer,yes,no,high,U08162
+C0334,PS5,4.4jt,8jt,no,transfer,yes,yes,high,U06425
+C0335,Set Peralatan Dapur,780rb,950rb,no,COD,no,yes,low,U00406
+C0336,TV LED 50 inch,1.9jt,6jt,no,e-wallet (protected),yes,no,high,U06507
+C0337,AC 1 PK,2.5jt,3.8jt,no,transfer,yes,no,high,U04355
+C0338,Drone DJI Mini,7.0jt,7jt,yes,COD,no,yes,low,U01586
+C0339,Drone DJI Mini,2.6jt,7jt,no,transfer,no,no,high,U08550
+C0340,AC 1 PK,429rb,3.8jt,no,transfer,yes,yes,high,U04380
+C0341,Handphone Xiaomi,3.1jt,3jt,yes,COD,yes,yes,low,U02591
+C0342,Handphone Xiaomi,520rb,3jt,no,transfer,yes,no,high,U00747
+C0343,PS5,3.0jt,8jt,no,transfer,yes,no,high,U02063
+C0344,AC 1 PK,3.9jt,3.8jt,yes,transfer,yes,yes,medium,U00493
+C0345,Kompor Gas 2 Tungku,573rb,550rb,no,e-wallet (protected),yes,no,medium,U09388
+C0346,Kursi Gaming,449rb,2.4jt,no,transfer,yes,no,high,U07041
+C0347,Laptop Macbook Air M2,9.2jt,15.5jt,no,transfer,yes,no,high,U03417
+C0348,Motor Bekas Matic,8.4jt,14jt,no,transfer,yes,yes,high,U06587
+C0349,Set Kosmetik Original,160rb,450rb,no,transfer,yes,no,high,U04127
+C0350,Tablet iPad,4.3jt,7.5jt,no,transfer,no,no,high,U07604
+C0351,AC 1 PK,2.6jt,3.8jt,no,transfer,yes,yes,high,U07106
+C0352,Set Peralatan Dapur,247rb,950rb,no,transfer,yes,yes,high,U01348
+C0353,Sofa 3 Dudukan,1.4jt,3.2jt,no,transfer,yes,no,high,U00479
+C0354,Set Peralatan Dapur,502rb,950rb,no,transfer,no,no,high,U04278
+C0355,Meja Kerja Kayu,398rb,1.1jt,yes,transfer,no,no,high,U03853
+C0356,Sepatu Sneakers Original,1.6jt,1.6jt,no,e-wallet (protected),no,yes,low,U09355
+C0357,Sepeda Lipat,2.1jt,2.8jt,yes,transfer,yes,yes,medium,U02455
+C0358,Set Peralatan Dapur,142rb,950rb,no,COD,yes,no,high,U09061
+C0359,Set Peralatan Dapur,400rb,950rb,no,transfer,yes,no,high,U05270
+C0360,Handphone Xiaomi,3.0jt,3jt,yes,COD,no,yes,low,U03551
+C0361,Samsung Galaxy S23,11.2jt,11.5jt,no,COD,yes,yes,medium,U00668
+C0362,Perhiasan Emas 10gr,6.8jt,10jt,no,transfer,no,yes,medium,U07091
+C0363,Tas Branded,2.6jt,4.5jt,no,COD,yes,yes,medium,U07846
+C0364,Karpet Persia,1.4jt,2.2jt,no,transfer,yes,yes,high,U04701
+C0365,Handphone Xiaomi,2.9jt,3jt,yes,COD,yes,no,medium,U08299
+C0366,Jam Tangan Original,3.7jt,3.8jt,no,COD,no,yes,low,U06229
+C0367,Speaker Bluetooth,606rb,700rb,yes,e-wallet (protected),yes,yes,low,U08727
+C0368,Motor Bekas Matic,10.7jt,14jt,no,transfer,no,yes,medium,U06966
+C0369,iPhone 13,10.3jt,10jt,yes,transfer,no,yes,medium,U04354
+C0370,Printer Epson,1.2jt,1.4jt,yes,COD,no,yes,low,U09982
+C0371,Tablet iPad,1.4jt,7.5jt,no,transfer,yes,no,high,U01804
+C0372,Handphone Xiaomi,651rb,3jt,no,transfer,yes,no,high,U08229
+C0373,Samsung Galaxy S23,7.8jt,11.5jt,yes,e-wallet (protected),no,yes,low,U02458
+C0374,Perhiasan Emas 10gr,7.5jt,10jt,yes,transfer,no,no,medium,U03372
+C0375,iPhone 13,6.3jt,10jt,yes,e-wallet (protected),yes,no,medium,U03581
+C0376,Meja Kerja Kayu,1.0jt,1.1jt,no,COD,no,yes,low,U06660
+C0377,Jam Tangan Original,444rb,3.8jt,no,transfer,no,no,high,U08425
+C0378,Set Kosmetik Original,458rb,450rb,yes,transfer,no,yes,medium,U04246
+C0379,Tablet iPad,5.4jt,7.5jt,no,transfer,yes,no,high,U08123
+C0380,Printer Epson,512rb,1.4jt,no,COD,yes,no,high,U09437
+C0381,Set Peralatan Dapur,386rb,950rb,no,COD,yes,no,high,U02219
+C0382,Laptop ASUS ROG,17.8jt,17jt,yes,e-wallet (protected),yes,yes,low,U08585
+C0383,Samsung Galaxy S23,10.3jt,11.5jt,no,COD,yes,yes,low,U09119
+C0384,Drone DJI Mini,6.1jt,7jt,no,COD,no,yes,low,U03837
+C0385,Sepeda Lipat,2.8jt,2.8jt,no,COD,no,yes,low,U04337
+C0386,Kulkas 2 Pintu,5.2jt,5jt,yes,e-wallet (protected),no,yes,low,U07254
+C0387,Sepatu Sneakers Original,867rb,1.6jt,no,e-wallet (protected),yes,no,high,U04469
+C0388,Samsung Galaxy S23,11.4jt,11.5jt,no,transfer,no,no,high,U08908
+C0389,Laptop Macbook Air M2,13.9jt,15.5jt,yes,transfer,no,yes,low,U08669
+C0390,iPhone 15 Pro,7.8jt,19.5jt,no,transfer,no,yes,high,U03216
+C0391,Laptop ASUS ROG,17.3jt,17jt,no,COD,no,yes,low,U00625
+C0392,Set Peralatan Dapur,918rb,950rb,no,COD,yes,yes,medium,U08312
+C0393,Sepatu Sneakers Original,211rb,1.6jt,no,transfer,no,no,high,U07641
+C0394,PS5,2.0jt,8jt,no,transfer,yes,no,high,U06037
+C0395,Sofa 3 Dudukan,637rb,3.2jt,no,transfer,yes,no,high,U09200
+C0396,Mesin Cuci,3.0jt,3.8jt,no,COD,no,yes,medium,U02514
+C0397,Perhiasan Emas 10gr,1.9jt,10jt,no,transfer,no,no,high,U08041
+C0398,Tas Branded,3.0jt,4.5jt,no,transfer,no,yes,medium,U00038
+C0399,Speaker Bluetooth,720rb,700rb,no,COD,yes,yes,medium,U06685
+C0400,Sepeda Lipat,371rb,2.8jt,no,transfer,yes,no,high,U08490
